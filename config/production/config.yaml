@@ -2,6 +2,11 @@
 
 baseURL: https://coopaname-site.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 6b955bc2-8a3c-4fc0-a0e6-3524e8852752
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
